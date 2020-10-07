@@ -1,5 +1,5 @@
 # SheldoNSFW
-Extremely basic Discord NSFW bot built with discord.js
+Extremely basic and outdated Discord NSFW bot built with discord.js v11
 
 **Installion:**
 - Download the repo
