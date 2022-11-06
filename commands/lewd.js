@@ -7,6 +7,25 @@ exports.run = (client, msg, args) => {
     .query({ type: 'lewd'})
     .end((err, response) => {
       msg.channel.send({ file: response.body.message });
+      msg.channel.send({ file: response.body.message });
+      msg.channel.send({ file: response.body.message });
+      msg.channel.send({ file: response.body.message });
+      msg.channel.send({ file: response.body.message });
+      msg.channel.send({ file: response.body.message });
+      msg.channel.send({ file: response.body.message });
+      msg.channel.send({ file: response.body.message });
+      msg.channel.send({ file: response.body.message });
+      msg.channel.send({ file: response.body.message });
+      msg.channel.send({ file: response.body.message });
+      msg.channel.send({ file: response.body.message });
+      msg.channel.send({ file: response.body.message });
+      msg.channel.send({ file: response.body.message });
+      msg.channel.send({ file: response.body.message });
+      msg.channel.send({ file: response.body.message });
+      msg.channel.send({ file: response.body.message });
+      msg.channel.send({ file: response.body.message });
+      msg.channel.send({ file: response.body.message });
+      msg.channel.send({ file: response.body.message });
     });
   } else {
     msg.channel.send("This isn't NSFW channel!")
